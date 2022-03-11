@@ -1,0 +1,26 @@
+/* tablet layout*/
+
+@media only screen and (min-width:200px) and (max-width:991px){ 
+.inner_menu{background:none;max-height: auto;}
+.inner_menu::after{display:none;}
+.mean_container .mean_nav{margin-top:0;width:80%} 
+.inner_header{padding:20px 0;}  
+.mini_menu ul li::after {top: 6px;}   
+.icon_area {max-width: 460px;padding-top: 12px;}   
+.inner_hero_area h4 {font-size: 30px;} 
+.inner_hero_area a{margin-bottom:30px;}    
+.inner_hero_area p {font-size: 22px;margin-bottom: 70px;}    
+.about_area {margin-left: 10px;}
+.child_work {width: 30.33%; margin: 0px 1% 8px;}
+ .chil_footer {width: 48%;}   
+.chil_footer input {border: 1px solid;padding: 10px 30px;}  
+ .icon_area {max-width: 451px;padding-top: 12px;}   
+    
+    
+    
+    
+    
+    
+    
+}
+
